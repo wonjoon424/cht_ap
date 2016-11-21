@@ -1,0 +1,16 @@
+### Build/CI artifacts ###
+
+builds/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcarchive
+
+### Other ###
+
+.DS_Store
+.bundle/ruby
+.bundle/install.log
+
